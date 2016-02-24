@@ -1,6 +1,14 @@
 header {
+
   display: flex;
   justify-content: center;
+
+  text-align: center;
+  margin: auto;
+}
+
+#resetButton {
+  font-size: 16px;
 }
 
 table {
